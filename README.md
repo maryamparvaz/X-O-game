@@ -1,5 +1,5 @@
 # X-O-game
-- [Demo Project](https://maryamparvaz.github.io/accordion-menu-3/)
+- [Demo Project](https://maryamparvaz.github.io/X-O-game/)
 
 - Developed by Maryam Parvaz 🙎
 
